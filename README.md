@@ -2,7 +2,8 @@
 
 A client-side utility mod for Minecraft 1.20.1 that automates your combat.
 
-![Image](https://github.com/user-attachments/assets/7d6ba0c9-bd14-479b-b469-98e40cac4070)
+![example(1)](https://github.com/user-attachments/assets/4a519fa6-e369-4b6e-9b67-df1bea70d327)
+
 
 ## Features
 * **Smart Auto Attack:** Automatically attacks hostile mobs when you look at them (with your crosshair)
@@ -19,6 +20,8 @@ A client-side utility mod for Minecraft 1.20.1 that automates your combat.
 
 
 I recommend using SpammyCombat by PaintNinja (https://www.curseforge.com/minecraft/mc-mods/spammycombat) alongside this mod ATM, until I update the auto attack timing
+
+![scared creep](https://github.com/user-attachments/assets/94a6c83d-d15a-4617-bc1a-19003b592f4d)
 
 ## FAQ
 * Q = Does the auto attack **work for animals?**
